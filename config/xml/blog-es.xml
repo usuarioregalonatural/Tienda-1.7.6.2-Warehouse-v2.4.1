@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>¿Qué es la cadena de valor de una empresa y cómo aplicarlo a un eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/cadena-de-valor-de-una-empresa</link>
+    <description>¿Conoces cuál es la cadena de valor de tu negocio?</description>
+     <pubDate>Sun, 08 Mar 2020 12:27:43 +0100</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/cadena-de-valor-de-una-empresa</guid>
+  </item>
+  <item>
+    <title>Selección de los módulos &amp;quot;Indispensables&amp;quot; de PrestaShop en 2020</title>
+    <link>https://www.prestashop.com/es/blog/prestashop-awards-2020</link>
+    <description>La selección de los mejores modulos y temas disponibles en el marketplace de PrestaShop Addons.</description>
+     <pubDate>Fri, 06 Mar 2020 12:31:46 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/prestashop-awards-2020</guid>
+  </item>
+  <item>
+    <title>Novedades eCommerce 2020 para tiendas online de PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/novedades-prestashop-2020</link>
+    <description>En este primer trimetre de año, una oleada de novedades para ayudar a los responsables de eCommerce a vender más y mejor</description>
+     <pubDate>Fri, 06 Mar 2020 11:36:09 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/novedades-prestashop-2020</guid>
+  </item>
+  <item>
+    <title>6 Mejores módulos para crear una tienda especializada en PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/modulos-tienda-especializada</link>
+    <description>¿Dispones de un producto, pero no sabes cómo crear tu propia tienda especializada?</description>
+     <pubDate>Thu, 05 Mar 2020 11:32:37 +0100</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-tienda-especializada</guid>
+  </item>
+  <item>
+    <title>5 Consejos para aumentar el valor de tu cesta de compra promedio dentro de tu eCommerce</title>
+    <link>https://www.prestashop.com/es/blog/cinco-consejos-para-aumentar-la-cesta-promedio-de-su-sitio-de-e-comercio</link>
+    <description>Aumentar el valor cuantitativo de la cesta de compra promedio es uno de los anhelos de todo responsable de tienda online.</description>
+     <pubDate>Wed, 04 Mar 2020 07:00:28 +0100</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/cinco-consejos-para-aumentar-la-cesta-promedio-de-su-sitio-de-e-comercio</guid>
+  </item>
+  <item>
+    <title>¿Qué son los anchor texts y cómo optimizarlos para mi web?</title>
+    <link>https://www.prestashop.com/es/blog/anchor-text</link>
+    <description>Los anchor text de nuestros enlaces internos y externos juegan un papel muy importante a la hora de posicionar una tienda online.</description>
+     <pubDate>Sun, 01 Mar 2020 11:01:37 +0100</pubDate>
+ <dc:creator>Emilio Miguel López - Madre SEOperiora</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/anchor-text</guid>
+  </item>
+  <item>
+    <title>¿Cuáles son las mejores tipografías para usar en la web de un eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/mejores-tipografias-web</link>
+    <description>¿Aún no sabes si la tipografía de tu tienda online es la más ideal?</description>
+     <pubDate>Mon, 24 Feb 2020 13:40:47 +0100</pubDate>
+ <dc:creator>Jose Manuel Peña</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/mejores-tipografias-web</guid>
+  </item>
+  <item>
+    <title>Checklist previo a lanzar una tienda online: ¡Revisa esto antes de crear tu eCommerce! </title>
+    <link>https://www.prestashop.com/es/blog/checklist-previo-lanzar-tienda-online</link>
+    <description>¿Acabas de arrancar en Internet con tu propio negocio de venta de productos y no sabes qué pasos dar?</description>
+     <pubDate>Mon, 24 Feb 2020 11:43:29 +0100</pubDate>
+ <dc:creator>Juan Carlos Celaya</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/checklist-previo-lanzar-tienda-online</guid>
+  </item>
+  <item>
+    <title>¿Cómo estructurar y mejorar la navegabilidad web en mi eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/mejorar-navegabilidad-web</link>
+    <description>¿Sientes que la navegabilidad web de tu tienda no es la deseable y, debido a ello, dejas de ganar ventas?</description>
+     <pubDate>Mon, 17 Feb 2020 17:12:02 +0100</pubDate>
+ <dc:creator>Miguel de Pineda</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/mejorar-navegabilidad-web</guid>
+  </item>
+  <item>
+    <title>7 Mejores módulos para ahorrar tiempo en las tareas de tu tienda PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/modulos-ahorrar-tiempo</link>
+    <description>Existen muchos módulos en PrestaShop para realizar casi cualquier tipo de tarea o función que requieras para tu eCommerce, pero:</description>
+     <pubDate>Mon, 17 Feb 2020 09:41:56 +0100</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-ahorrar-tiempo</guid>
+  </item>
+  </channel>
+</rss>
